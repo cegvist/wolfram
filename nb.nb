@@ -1,0 +1,72 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 11.3' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      1907,         62]
+NotebookOptionsPosition[      1394,         45]
+NotebookOutlinePosition[      1737,         60]
+CellTagsIndexPosition[      1694,         57]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell[BoxData[
+ RowBox[{"NotebookImport", "[", 
+  RowBox[{"nb", ",", "_"}], "]"}]], "Input",
+ CellChangeTimes->{{3.7559517749972277`*^9, 3.7559517750561914`*^9}},
+ CellLabel->"In[1]:=",ExpressionUUID->"d66de610-0b71-45e5-bab7-1aaa517f09a4"],
+
+Cell[BoxData[
+ TemplateBox[{
+  "NotebookImport","nimpbl",
+   "\"\\!\\(\\*RowBox[{\\\"nb\\\"}]\\) is not a valid Notebook, \
+NotebookObject, CloudObject, or file name.\"",2,1,1,32488187256540467927,
+   "Local"},
+  "MessageTemplate"]], "Message", "MSG",
+ CellChangeTimes->{3.7559517877305527`*^9},
+ CellLabel->
+  "During evaluation of \
+In[1]:=",ExpressionUUID->"b2ee9f4e-8ed2-48e0-8517-ffd74c4eb273"],
+
+Cell[BoxData["$Failed"], "Output",
+ CellChangeTimes->{3.755951787838255*^9},
+ CellLabel->"Out[1]=",ExpressionUUID->"fc4fef01-63ed-44f4-b3eb-b7118d76a0a6"]
+}, Open  ]]
+},
+WindowSize->{759, 541},
+WindowMargins->{{Automatic, 295}, {Automatic, 64}},
+FrontEndVersion->"11.3 for Microsoft Windows (64-bit) (March 6, 2018)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[580, 22, 239, 4, 45, "Input",ExpressionUUID->"d66de610-0b71-45e5-bab7-1aaa517f09a4"],
+Cell[822, 28, 399, 10, 21, "Message",ExpressionUUID->"b2ee9f4e-8ed2-48e0-8517-ffd74c4eb273"],
+Cell[1224, 40, 154, 2, 65, "Output",ExpressionUUID->"fc4fef01-63ed-44f4-b3eb-b7118d76a0a6"]
+}, Open  ]]
+}
+]
+*)
+
+(* End of internal cache information *)
+
